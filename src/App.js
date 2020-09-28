@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
        <nav className="nvabar navbar-dark bg-dark">
-            <a href="/" className="navabar-brand">Form handling in React js</a>
+            <a href="/" className="navabar-brand">React Basic Concepts</a>
        </nav>
       {/* <ChangeuserName />
        <ChangeSelectBox/>
@@ -19,7 +19,7 @@ function App() {
        <WishMessage />
        <Customers />*/}
        <EmployeeCards />
-       <EmployeeList />
+       {/*<EmployeeList />*/}
     </div>
   );
 }
